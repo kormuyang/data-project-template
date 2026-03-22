@@ -1,5 +1,7 @@
 # Data Project Template
 
+This template structure is based on [datalumina-project-template](https://github.com/datalumina/datalumina-project-template).
+
 ## Project Organization
 
 ```
